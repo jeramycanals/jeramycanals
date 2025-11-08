@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Jeramy, I am an IT & Cybersecurity Professional 👋
 
 <!--
 **jeramycanals/jeramycanals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
