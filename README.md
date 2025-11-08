@@ -2,7 +2,7 @@
 
 <h2>💻 Information Technology Projects:</h2>
 
-- <b> Active Directory in Microsoft Azure with PowerShell <img align="center" alt="PowerShell Icon" width="20px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" /></b>
+- <b> Active Directory in Microsoft Azure with <img align="center" alt="PowerShell Icon" width="20px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" /> PowerShell</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jeramycanals/configure-ad)
 - <b>osTicket (Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jeramycanals/osticket-prereqs)
