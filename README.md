@@ -1,16 +1,20 @@
-## Hi, I am Jeramy, I am an IT & Cybersecurity Professional 👋
+<h1>Hello, I am Jeramy. I am an <a href="https://linkedin.com/in/jeramycanals">IT & Cybersecurity Professional</a>☺</h1>
 
-<!--
-**jeramycanals/jeramycanals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b> Active Directory in Microsoft Azure with PowerShell <img align="center" alt="PowerShell Icon" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/powershell.svg" /></b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jeramycanals/configure-ad)
+- <b>osTicket (Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/jeramycanals/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/jeramycanals/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/jeramycanals/ticket-lifecycle)
+- <b>Microsoft Azure & Networking</b>
+  - [Analyzing Network Protocols with Wireshark and Network Security Groups (NSGs)](https://github.com/jeramycanals/azure-network-protocols)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🔗Connect with me:</h2>
+
+[<img align="left" alt="Jeramy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Jeramy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[youtube]: https://youtube.com/@jeramycanals
+[linkedin]: https://linkedin.com/in/jeramycanals
