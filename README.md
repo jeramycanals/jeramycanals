@@ -8,7 +8,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jeramycanals/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jeramycanals/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jeramycanals/ticket-lifecycle)
-- <b>Microsoft Azure & Networking</b>
+- <b>Microsoft Azure & Networking with Wireshark</b>
   - [Analyzing Network Protocols with Wireshark and Network Security Groups (NSGs)](https://github.com/jeramycanals/azure-network-protocols)
 
 <h2>🔗Connect with me:</h2>
