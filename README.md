@@ -4,14 +4,14 @@
 
 - <b> Active Directory in Microsoft Azure with <img align="center" alt="PowerShell Icon" width="20px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" /> PowerShell</b>
   - [Configuring Active Directory within Azure VMs with PowerShell](https://github.com/jeramycanals/configure-ad)
-- <b>osTicket (Ticketing System)</b>
+- <b>osTicket (Ticketing System) - In Progress</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jeramycanals/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jeramycanals/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jeramycanals/ticket-lifecycle)
  
 <h2>🖧 Networking Projects:</h2>
 
-- <b>Microsoft Azure & Networking with Wireshark</b>
+- <b>Microsoft Azure & Networking with Wireshark - In Progress</b>
   - [Analyzing Network Protocols with Wireshark and Network Security Groups (NSGs)](https://github.com/jeramycanals/azure-network-protocols)
   
 <h2>🔐 Cybersecurity Projects (In Progress – Completion by 01/2026):</h2>
