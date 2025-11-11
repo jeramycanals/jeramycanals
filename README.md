@@ -8,8 +8,38 @@
   - [osTicket: Prerequisites and Installation](https://github.com/jeramycanals/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jeramycanals/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jeramycanals/ticket-lifecycle)
+ 
+<h2>🖧 Networking Projects:</h2>
+
 - <b>Microsoft Azure & Networking with Wireshark</b>
   - [Analyzing Network Protocols with Wireshark and Network Security Groups (NSGs)](https://github.com/jeramycanals/azure-network-protocols)
+  
+<h2>🔐 Cybersecurity Projects (In Progress – Completion by 01/2026):</h2>
+
+- <b> Project Title Here 
+  - Project Link Here 
+- <b> Project Title Here 
+  - Project Link Here 
+- <b> Project Title Here 
+  - Project Link Here 
+ 
+<h2>💻 Python Scripting and Programming Projects (In Progress – Completion by 02/2026):</h2>
+
+- <b> Project Title Here  
+  - Project Link Here 
+- <b> Project Title Here 
+  - Project Link Here 
+- <b> Project Title Here 
+  - Project Link Here 
+
+<h2>🤖🔐 Artificial Intelligence (AI) Security Projects (In Progress – Completion by 03/2026):</h2>
+
+- <b> Project Title Here 
+  - Project Link Here 
+- <b> Project Title Here 
+  - Project Link Here 
+- <b> Project Title Here 
+  - Project Link Here
 
 <h2>🔗Connect with me:</h2>
 
