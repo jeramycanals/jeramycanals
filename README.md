@@ -23,7 +23,7 @@
 - <b> Project Title Here 
   - Project Link Here 
  
-<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="23px" alt="Python Logo"/> Python Scripting and Programming Projects (In Progress – Completion by 02/2026):</h2>
+<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px" alt="Python Logo"/> Python Scripting and Programming Projects (In Progress – Completion by 02/2026):</h2>
 
 - <b> Project Title Here  
   - Project Link Here 
