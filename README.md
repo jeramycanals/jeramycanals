@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jeramycanals/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jeramycanals/ticket-lifecycle)
  
-<h2>🖧 Networking Projects:</h2>
+<h2>🌐 Networking Projects:</h2>
 
 - <b>Microsoft Azure & Networking with Wireshark - In Progress</b>
   - [Analyzing Network Protocols with Wireshark and Network Security Groups (NSGs)](https://github.com/jeramycanals/azure-network-protocols)
