@@ -5,8 +5,6 @@
 - <b> Active Directory in Microsoft Azure with <img align="center" alt="PowerShell Icon" width="20px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" /> PowerShell</b>
   - [Configuring Active Directory within Azure VMs with PowerShell](https://github.com/jeramycanals/configure-ad)
 - <b>osTicket (Ticketing System) - In Progress</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jeramycanals/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jeramycanals/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jeramycanals/ticket-lifecycle)
  
 <h2>🌐 Networking Projects:</h2>
@@ -18,28 +16,16 @@
 
 - <b> Project Title Here 
   - Project Link Here 
-- <b> Project Title Here 
-  - Project Link Here 
-- <b> Project Title Here 
-  - Project Link Here 
  
 <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python Logo"/> Python Scripting and Programming Projects (In Progress – Completion by 02/2026):</h2>
 
 - <b> Project Title Here  
-  - Project Link Here 
-- <b> Project Title Here 
-  - Project Link Here 
-- <b> Project Title Here 
   - Project Link Here 
 
 <h2>🤖🔐 Artificial Intelligence (AI) Security Projects (In Progress – Completion by 03/2026):</h2>
 
 - <b> Project Title Here 
   - Project Link Here 
-- <b> Project Title Here 
-  - Project Link Here 
-- <b> Project Title Here 
-  - Project Link Here
 
 <h2>🔗Connect with me:</h2>
 
