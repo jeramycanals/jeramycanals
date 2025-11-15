@@ -3,9 +3,9 @@
 <h2>💻 Information Technology Projects:</h2>
 
 - <b> Active Directory in Microsoft Azure with <img align="center" alt="PowerShell Icon" width="20px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" /> PowerShell</b>
-  - [Configuring Active Directory within Azure VMs with PowerShell](https://github.com/jeramycanals/configure-ad)
+  - [Active Directory Deployment and User Management in Microsoft Azure with PowerShell ](https://github.com/jeramycanals/configure-ad)
 - <b>osTicket (Ticketing System) - (In Progress - Expected: Nov 2025)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jeramycanals/ticket-lifecycle)
+  - [osTicket Help Desk Ticketing System: Configuration and Ticket Lifecycle Management ](https://github.com/jeramycanals/ticket-lifecycle)
  
 <h2>🌐 Networking Projects:</h2>
 
