@@ -9,7 +9,7 @@
  
 <h2>🌐 Networking Projects:</h2>
 
-- <b>Microsoft Azure & Networking with Wireshark - (In Progress - Expected: Nov 2025)</b>
+- <b>Microsoft Azure & Networking with Wireshark</b>
   - [Network Traffic Analysis Between Azure VMs Using NSGs and Wireshark](https://github.com/jeramycanals/azure-network-protocols)
   
 <h2>🔐 Cybersecurity Projects (In Progress – Completion by 01/2026):</h2>
