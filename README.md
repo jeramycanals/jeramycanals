@@ -4,7 +4,7 @@
 
 - <b> Active Directory in Microsoft Azure with <img align="center" alt="PowerShell Icon" width="20px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" /> PowerShell</b>
   - [Active Directory Deployment and User Management in Microsoft Azure with PowerShell ](https://github.com/jeramycanals/configure-ad)
-- <b>osTicket (Ticketing System) - (In Progress - Expected: Nov 2025)</b>
+- <b>osTicket (Help Desk Ticketing System) - (In Progress - Expected: Nov 2025)</b>
   - [osTicket Help Desk Ticketing System: Installation, Configuration, and Ticket Lifecycle Management](https://github.com/jeramycanals/ticket-lifecycle)
  
 <h2>🌐 Networking Projects:</h2>
