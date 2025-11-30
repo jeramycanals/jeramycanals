@@ -1,6 +1,6 @@
 <h1>Hello, I am Jeramy. I am an <a href="https://linkedin.com/in/jeramycanals">IT & Cybersecurity Professional</a>☺</h1>
 
-<h2>💻 Information Technology Projects:</h2>
+<h2>💻 IT Projects:</h2>
 
 - <b> Active Directory in Microsoft Azure with <img align="center" alt="PowerShell Icon" width="20px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/powershell-colored.svg" /> PowerShell</b>
   - [Active Directory Deployment and User Management in Microsoft Azure with PowerShell ](https://github.com/jeramycanals/configure-ad)
