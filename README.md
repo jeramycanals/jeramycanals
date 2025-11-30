@@ -12,20 +12,32 @@
 - <b>Microsoft Azure & Networking with Wireshark</b>
   - [Network Traffic Analysis Between Azure VMs Using NSGs and Wireshark](https://github.com/jeramycanals/azure-network-protocols)
   
-<h2>🔐 Cybersecurity Projects (In Progress – Completion by 02/2026):</h2>
+<h2>🔐 Cybersecurity Projects (In Progress – Completion by 03/2026):</h2>
 
-- <b> Project Title Here 
-  - Project Link Here 
+- <b> Zero-Trust Defense Architecture for Windows & Cloud Systems 
+  - [Project link by 03/2026](#)
+- <b> SOC Threat Detection & Incident Response Lab 
+  - [Project link by 03/2026](#)
+- <b> Cyber-Physical Systems Attack & Defense Simulation (ICS/OT Security)
+  - [Project link by 03/2026](#)
  
-<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python Logo"/> Python Scripting and Programming Projects (In Progress – Completion by 03/2026):</h2>
+<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python Logo"/> Python Security Engineering & Automation Projects (In Progress – Completion by 04/2026):</h2>
 
-- <b> Project Title Here  
-  - Project Link Here 
+- <b> AI-Assisted Threat Intelligence Analyzer (Python + NLP)  
+  - [Project link by 04/2026](#)
+- <b> Automated Cloud Security Scanner
+  - [Project link by 04/2026](#)
+- <b> Sysmon & Windows Log Parser for Adversary Detection 
+  - [Project link by 04/2026](#)
 
-<h2>🤖🔐 Artificial Intelligence (AI) Security Projects (In Progress – Completion by 04/2026):</h2>
+<h2>🤖🔐 Artificial Intelligence (AI) Security Projects (In Progress – Completion by 05/2026):</h2>
 
-- <b> Project Title Here 
-  - Project Link Here 
+- <b> Adversarial Machine Learning Defense Lab
+  - [Project link by 05/2026](#)
+- <b> Secure AI Model Deployment for Defense Systems 
+  - [Project link by 05/2026](#)
+- <b> AI Security for Cyber-Physical & Sensor Systems 
+  - [Project link by 05/2026](#)
 
 <h2>🔗Connect with me:</h2>
 
