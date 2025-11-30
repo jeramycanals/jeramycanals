@@ -21,7 +21,7 @@
 - <b> Cyber-Physical Systems Attack & Defense Simulation (ICS/OT Security)
   - [Project link by 03/2026](#)
 
-<h2>🤖🔐<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22px" alt="Python Logo"/> AI Security Projects (In Progress – Completion by 05/2026):</h2>
+<h2>🤖🔐<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="22px" alt="Python Logo"/> AI Security Projects (In Progress – Completion by 04/2026):</h2>
 
 - <b> Adversarial Machine Learning: Offensive & Defensive AI Security Lab with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="15px" alt="Python Logo"/>Python
   - [Project link by 05/2026](#)
