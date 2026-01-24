@@ -11,6 +11,15 @@
 
 - <b>Microsoft Azure & Networking with Wireshark</b>
   - [Network Traffic Analysis Between Azure VMs Using NSGs and Wireshark](https://github.com/jeramycanals/azure-network-protocols)
+ 
+<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python Logo"/> Python Automation Projects (In Progress – Completion by 04/2026):</h2>
+
+- <b> Security Log Analyzer & Alerting Tool 
+  - [Project link by 04/2026](#)
+- <b> Network Recon & Port Mapping Tool 
+  - [Project link by 04/2026](#)
+- <b> Linux Command-Line Automation Toolkit (Python Wrapper)
+  - [Project link by 04/2026](#)
   
 <h2>🔐 Cybersecurity Projects (In Progress – Completion by 05/2026):</h2>
 
