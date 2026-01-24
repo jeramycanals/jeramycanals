@@ -12,7 +12,7 @@
 - <b>Microsoft Azure & Networking with Wireshark</b>
   - [Network Traffic Analysis Between Azure VMs Using NSGs and Wireshark](https://github.com/jeramycanals/azure-network-protocols)
  
-<h2>🔬 Research (In Progress – Completion by 03/2026):</h2>
+<h2>🔬 Security Research (In Progress – Completion by 03/2026):</h2>
 
 - <b>Network Traffic Anomaly Detection (Applied Security Research)</b>
   - Investigating rule-based and statistical techniques for identifying anomalous network behavior using packet capture data.
