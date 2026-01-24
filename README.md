@@ -12,7 +12,7 @@
 - <b>Microsoft Azure & Networking with Wireshark</b>
   - [Network Traffic Analysis Between Azure VMs Using NSGs and Wireshark](https://github.com/jeramycanals/azure-network-protocols)
  
-<h2>🔬 Security Research (In Progress – Completion by 03/2026):</h2>
+<h2>🔬 Security Research Projects (In Progress – Completion by 03/2026):</h2>
 
 - <b>Adversarial Machine Learning in Network Security (Early-Stage Research)</b>
   - Exploring how adversarial inputs impact ML-based intrusion detection systems.
