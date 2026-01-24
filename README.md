@@ -14,14 +14,6 @@
  
 <h2>🔬 Security Research (In Progress – Completion by 03/2026):</h2>
 
-- <b>Network Traffic Anomaly Detection (Applied Security Research)</b>
-  - Investigating rule-based and statistical techniques for identifying anomalous network behavior using packet capture data.
-  - Focus on traffic baselining, threshold selection, and false positive reduction.
-  - [Project link by 03/2026](#)
-- <b>Zero Trust Network Architecture Evaluation</b>
-  - Researching the effectiveness of network segmentation and least-privilege enforcement in preventing lateral movement.
-  - Evaluating tradeoffs between security, performance, and operational complexity.
-  - [Project link by 03/2026](#)
 - <b>Adversarial Machine Learning in Network Security (Early-Stage Research)</b>
   - Exploring how adversarial inputs impact ML-based intrusion detection systems.
   - Reviewing literature and planning reproducible experiments using Python.
