@@ -12,13 +12,30 @@
 - <b>Microsoft Azure & Networking with Wireshark</b>
   - [Network Traffic Analysis Between Azure VMs Using NSGs and Wireshark](https://github.com/jeramycanals/azure-network-protocols)
  
+<h2>🔬 Research & Technical Exploration (In Progress – Completion by 03/2026):</h2>
+
+- <b>Network Traffic Anomaly Detection (Applied Security Research)</b>
+  - Investigating rule-based and statistical techniques for identifying anomalous network behavior using packet capture data.
+  - Focus on traffic baselining, threshold selection, and false positive reduction.
+  - [Project link by 03/2026](#)
+
+- <b>Zero Trust Network Architecture Evaluation</b>
+  - Researching the effectiveness of network segmentation and least-privilege enforcement in preventing lateral movement.
+  - Evaluating tradeoffs between security, performance, and operational complexity.
+  - [Project link by 03/2026](#)
+
+- <b>Adversarial Machine Learning in Network Security (Early-Stage Research)</b>
+  - Exploring how adversarial inputs impact ML-based intrusion detection systems.
+  - Reviewing literature and planning reproducible experiments using Python.
+  - [Project link by 03/2026](#)
+ 
 <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python Logo"/> Python Automation Projects (In Progress – Completion by 04/2026):</h2>
 
-- <b> Security Log Analyzer & Alerting Tool 
+- <b> Network Threat Detection & Traffic Correlation Lab 
   - [Project link by 04/2026](#)
-- <b> Network Recon & Port Mapping Tool 
+- <b> Network Segmentation & Zero-Trust Enforcement Lab (Azure + On-Prem) 
   - [Project link by 04/2026](#)
-- <b> Linux Command-Line Automation Toolkit (Python Wrapper)
+- <b> Network Recon & Security Assessment Tool
   - [Project link by 04/2026](#)
   
 <h2>🔐 Cybersecurity Projects (In Progress – Completion by 05/2026):</h2>
