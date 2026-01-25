@@ -14,9 +14,7 @@
  
 <h2>🔬 Security Research Projects (In Progress – Completion by 03/2026):</h2>
 
-- <b>Adversarial Machine Learning in Network Security (Early-Stage Research)</b>
-  - Exploring how adversarial inputs impact ML-based intrusion detection systems.
-  - Reviewing literature and planning reproducible experiments using Python.
+- <b>VLAN Segmentation vs Lateral Movement</b>
   - [Project link by 03/2026](#)
  
 <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python Logo"/> Python Automation Projects (In Progress – Completion by 04/2026):</h2>
