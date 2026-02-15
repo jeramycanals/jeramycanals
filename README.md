@@ -1,4 +1,4 @@
-<h1>Hello, I am Jeramy. I am an <a href="https://linkedin.com/in/jeramycanals">Network Engineer</a>☺</h1>
+<h1>Hello, I am Jeramy. I am a <a href="https://linkedin.com/in/jeramycanals">Network Engineer</a>☺</h1>
 
 <h2>💻 IT Projects:</h2>
 
