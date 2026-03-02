@@ -12,7 +12,7 @@
 - <b>Microsoft Azure & Networking with Wireshark</b>
   - [Network Traffic Analysis Between Azure VMs Using NSGs and Wireshark](https://github.com/jeramycanals/azure-network-protocols)
 - <b>CCNA Packet Tracer Labs</b>
-  - [Routing, Switching, and Secure SSH Configuration by 03/2026](#)
+  - [Routing, Switching, and Secure SSH Configuration in Packet Tracer by 03/2026](#)
  
 <h2>🔐🔬 Security Research Projects (In Progress – Completion by 03/2026):</h2>
 
