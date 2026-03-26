@@ -11,31 +11,31 @@
 
 - <b>Microsoft Azure & Networking with Wireshark</b>
   - [Network Traffic Analysis Between Azure VMs Using NSGs and Wireshark](https://github.com/jeramycanals/azure-network-protocols)
-- <b>CCNA Packet Tracer Labs</b>
-  - [Routing, Switching, and Secure SSH Configuration in Packet Tracer by 03/2026](#)
+- <b>CCNA Packet Tracer Lab Walkthroughs</b>
+  - [Routing, Switching, and Secure SSH Configuration in Packet Tracer](https://github.com/jeramycanals/ccna-routing-switching-ssh)
  
-<h2>🔐🔬 Security Research Projects (In Progress – Completion by 03/2026):</h2>
+<h2>🔐🔬 Security Research Projects (In Progress – Completion by 05/2026):</h2>
 
 - <b>Network Segmentation vs Lateral Movement</b>
   - [Project link by 03/2026](#)
  
-<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python Logo"/> Python Automation Projects (In Progress – Completion by 04/2026):</h2>
+<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python Logo"/> Python Automation Projects (In Progress – Completion by 06/2026):</h2>
 
 - <b>Network Threat Detection & Traffic Correlation Lab</b> 
-  - [Project link by 04/2026](#)
+  - [Project link by 06/2026](#)
 - <b>Network Segmentation & Zero-Trust Enforcement Lab (Azure + On-Prem)</b> 
-  - [Project link by 04/2026](#)
+  - [Project link by 06/2026](#)
 - <b>Network Recon & Security Assessment Tool</b>
-  - [Project link by 04/2026](#)
+  - [Project link by 06/2026](#)
   
-<h2>🔐 Cybersecurity Projects (In Progress – Completion by 05/2026):</h2>
+<h2>🔐 Cybersecurity Projects (In Progress – Completion by 07/2026):</h2>
 
 - <b>Zero-Trust Defense Architecture for Windows & Cloud Systems</b> 
-  - [Project link by 05/2026](#)
+  - [Project link by 07/2026](#)
 - <b>SOC Threat Detection & Incident Response Lab</b> 
-  - [Project link by 05/2026](#)
+  - [Project link by 07/2026](#)
 - <b>Cyber-Physical Systems Attack & Defense Simulation (ICS/OT Security)</b>
-  - [Project link by 05/2026](#)
+  - [Project link by 07/2026](#)
 
 <h2>🤖🔐 AI Security Projects (In Progress – Completion by 12/2026):</h2>
 
