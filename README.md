@@ -14,10 +14,10 @@
 - <b>CCNA Packet Tracer Lab Walkthroughs</b>
   - [Routing, Switching, and Secure SSH Configuration in Packet Tracer](https://github.com/jeramycanals/ccna-routing-switching-ssh)
  
-<h2>🔐🔬 Security Research Projects (In Progress – Completion by 05/2026):</h2>
+<h2>🔐🔬 Security Research Projects (In Progress – Completion by 06/2026):</h2>
 
 - <b>Network Segmentation vs Lateral Movement</b>
-  - [Project link by 03/2026](#)
+  - [Project link by 06/2026](#)
  
 <h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python Logo"/> Python Automation Projects (In Progress – Completion by 06/2026):</h2>
 
