@@ -19,7 +19,7 @@
 - <b>Network Segmentation vs Lateral Movement</b>
   - [Project link by 10/2026](#)
  
-<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python Logo"/> Python Automation Projects (In Progress – Completion by 06/2026):</h2>
+<h2><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25px" alt="Python Logo"/> Python Automation Projects (In Progress – Completion by 10/2026):</h2>
 
 - <b>Network Threat Detection & Traffic Correlation Lab</b> 
   - [Project link by 10/2026](#)
